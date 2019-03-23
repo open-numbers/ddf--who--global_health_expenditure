@@ -1,0 +1,14 @@
+{
+    "name": "ddf--who--global_health_expenditure",
+    "author": "Gapminder",
+    "description": "WHO Global Health Expenditure",
+    "language": {
+        "name": "English",
+        "id": "en"
+    },
+    "translations": [],
+    "license": "CC-BY-4.0",
+    "title": "WHO Global Health Expenditure",
+    "version": "0.0.1",
+    "resources": []
+}
