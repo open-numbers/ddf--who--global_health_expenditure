@@ -1,15 +1,10 @@
 # WHO Global Health Expenditure
 
-WHO Global Health Expenditure
+WHO Global Health Expenditure DDF dataset
 
 ## Indicators
 
-- List of indicators in this repo
-
-## Definition of indicator
-
-
-## Unit of measurement
+check the concept file `ddf--concepts--continuous.csv` for details
 
 
 ## Versions
@@ -17,8 +12,9 @@ WHO Global Health Expenditure
 
 ### Revision history
 
-
 ## Data sources summary
+
+This dataset is based on [WHO Global Health Expenditure Database](http://apps.who.int/nha/database/Select/Indicators/en). All indicators were imported, excluding comments/foot notes/source/ for indicators/observations.
 
 
 ## Specific information about this indicator
