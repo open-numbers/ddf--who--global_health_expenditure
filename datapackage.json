@@ -8,7 +8,7 @@
     "description": "WHO Global Health Expenditure",
     "author": "Gapminder",
     "license": "CC-BY-4.0",
-    "created": "2019-03-24T13:30:22.247999+00:00",
+    "created": "2024-08-21T02:57:43.136341+00:00",
     "translations": [],
     "version": "0.0.1",
     "resources": [
@@ -33,7 +33,9 @@
                         "name": "concept_type"
                     }
                 ],
-                "primaryKey": "concept"
+                "primaryKey": [
+                    "concept"
+                ]
             }
         },
         {
@@ -51,7 +53,9 @@
                         "name": "concept_type"
                     }
                 ],
-                "primaryKey": "concept"
+                "primaryKey": [
+                    "concept"
+                ]
             }
         },
         {
@@ -75,7 +79,9 @@
                         "name": "country_income_group"
                     }
                 ],
-                "primaryKey": "country"
+                "primaryKey": [
+                    "country"
+                ]
             }
         },
         {
